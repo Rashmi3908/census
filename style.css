@@ -1,0 +1,21 @@
+table, td, th {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+}
+
+th, td {
+    padding: 15px;
+}
+body{
+  background: linear-gradient(119.69deg,#0080ff,#00d5ff 82%);
+}
+h2{
+  text-shadow: 2px 2px black;
+  margin: 0 auto;
+}
